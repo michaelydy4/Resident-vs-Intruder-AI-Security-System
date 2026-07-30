@@ -2,6 +2,14 @@
 
 A real-time face recognition security system built for the NVIDIA Jetson Nano that detects and identifies people as either a recognized "Resident" or an unrecognized "Intruder" at 30 FPS with 99.3% accuracy.
 
+## Demo Video
+
+<a href="https://drive.google.com/file/d/1mlWQsi4f9271KC_EB2GRaBJf8i0hlXg0/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/▶️_WATCH_DEMO_VIDEO-CLICK_HERE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" width="600">
+</a>
+
+**Direct Link:** https://drive.google.com/file/d/1mlWQsi4f9271KC_EB2GRaBJf8i0hlXg0/view?usp=sharing
+
 ## The Algorithm
 
 This system uses a combination of computer vision and deep learning to perform real-time face recognition:
