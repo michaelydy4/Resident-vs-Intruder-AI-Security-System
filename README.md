@@ -30,6 +30,20 @@ This system uses a combination of computer vision and deep learning to perform r
 - Can stop and resume training at any time
 - Achieved 99.3% accuracy after training
 
+## Screenshots
+
+### Resident Detection
+![Resident][https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/resident.jpg](https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/resident.jpg)](https://github.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/blob/main/images/Screenshot%202026-07-30%20093524.png?raw=true)
+
+### Intruder Detection
+![Intruder](https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/intruder.jpg)
+
+### Training Results
+![Training]([https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/training.jpg](https://github.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/blob/main/images/Screenshot%202026-07-30%20093110.png?raw=true))
+
+### Captured Intruder Images
+![Captured]([https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/captured.jpg](https://github.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/blob/main/images/Screenshot%202026-07-30%20094713.png?raw=true))
+
 ### Dependencies
 - Python 3.10+
 - face_recognition
