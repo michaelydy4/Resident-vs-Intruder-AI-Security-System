@@ -33,16 +33,16 @@ This system uses a combination of computer vision and deep learning to perform r
 ## Screenshots
 
 ### Resident Detection
-![Resident][https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/resident.jpg](https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/resident.jpg)](https://github.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/blob/main/images/Screenshot%202026-07-30%20093524.png?raw=true)
+![Resident](https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/images/Screenshot%202026-07-30%20093524.png)
 
 ### Intruder Detection
-![Intruder](https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/intruder.jpg)
+![Intruder](https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/images/Screenshot%202026-07-30%20100053.png)
 
 ### Training Results
-![Training]([https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/training.jpg](https://github.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/blob/main/images/Screenshot%202026-07-30%20093110.png?raw=true))
+![Training](https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/images/Screenshot%202026-07-30%20093110.png)
 
 ### Captured Intruder Images
-![Captured]([https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/img/captured.jpg](https://github.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/blob/main/images/Screenshot%202026-07-30%20094713.png?raw=true))
+![Captured](https://raw.githubusercontent.com/michaelydy4/Resident-vs-Intruder-AI-Security-System/main/images/Screenshot%202026-07-30%20100106.png)
 
 ### Dependencies
 - Python 3.10+
