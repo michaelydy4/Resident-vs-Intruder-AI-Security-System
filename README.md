@@ -53,5 +53,3 @@ This system uses a combination of computer vision and deep learning to perform r
 ```bash
 git clone https://github.com/michaelydy4/Resident-vs-Intruder-AI-Security-System.git
 cd Resident-vs-Intruder-AI-Security-System
-
-[View a video explanation here](video link)
